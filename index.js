@@ -1,1 +1,1 @@
-window.location.replace("https://www.daominh89.ml");
+window.location.replace("https://daominh89.github.io/dear.txt");
